@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Trirong&display=swap');
+.createNote{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.input{
+    outline: none;
+    border: none;
+    width: 600px;
+    font-size: 20px;
+    font-family: 'Trirong', serif;
+    padding: 10px;
+}
+
+.myInput{
+    margin-top: 20px;
+}
+
+.text-area{
+    height: 200px;
+}
+.sub-btn{
+    margin-top: 5px !important;
+}
